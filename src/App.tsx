@@ -234,7 +234,7 @@ export default function App() {
           
           <div className="flex items-center gap-6">
             <a 
-              href="https://github.com/antiero/MIDIWeb-Hub" 
+              href="https://github.com/5of12/MIDIWeb-Hub" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-zinc-500 hover:text-zinc-300 transition-colors flex items-center gap-2"

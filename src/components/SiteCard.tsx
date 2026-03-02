@@ -9,7 +9,7 @@ interface SiteCardProps {
 
 export function SiteCard({ site, status }: SiteCardProps) {
   const domain = new URL(site.url).hostname;
-  const faviconUrl = `https://www.google.com/s2/favicons?domain=${domain}&sz=128`;
+  const faviconUrl = `https://icons.duckduckgo.com/ip3/${domain}.ico`;
 
   return (
     <div className={`group relative flex flex-col bg-zinc-900 border rounded-xl overflow-hidden transition-colors duration-300 ${

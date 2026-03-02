@@ -55,7 +55,7 @@ export function SubmitModal({ isOpen, onClose }: SubmitModalProps) {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold text-zinc-100">How to contribute:</h3>
             <ol className="list-decimal list-inside space-y-3 text-sm">
-              <li>Fork the repository at <a href="https://github.com/antiero/MIDIWeb-Hub" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:underline">github.com/antiero/MIDIWeb-Hub</a></li>
+              <li>Fork the repository at <a href="https://github.com/5of12/MIDIWeb-Hub" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:underline">github.com/5of12/MIDIWeb-Hub</a></li>
               <li>Add your site to the <code className="px-1.5 py-0.5 bg-zinc-800 text-emerald-300 rounded">src/data.ts</code> file using the format below.</li>
               <li>Commit your changes and push to your fork.</li>
               <li>Open a Pull Request with a brief description of the site.</li>
@@ -81,7 +81,7 @@ export function SubmitModal({ isOpen, onClose }: SubmitModalProps) {
         
         <div className="p-4 sm:p-6 bg-zinc-950/50 border-t border-zinc-800 flex justify-end shrink-0">
           <a 
-            href="https://github.com/antiero/MIDIWeb-Hub" 
+            href="https://github.com/5of12/MIDIWeb-Hub" 
             target="_blank" 
             rel="noopener noreferrer"
             className="px-6 py-2.5 bg-emerald-500 hover:bg-emerald-400 text-zinc-950 font-semibold rounded-lg transition-colors flex items-center gap-2"
