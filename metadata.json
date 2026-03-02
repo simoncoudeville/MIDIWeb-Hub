@@ -1,0 +1,5 @@
+{
+  "name": "MIDIWeb Hub",
+  "description": "A directory of WebMIDI-capable websites, tools, and synths.",
+  "requestFramePermissions": []
+}
