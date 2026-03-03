@@ -23,6 +23,13 @@ export const initialSites: Site[] = [
     description: 'A tool to monitor and analyze incoming MIDI messages in real-time.',
   },
   {
+    id: 'retrokits',
+    name: 'RetroKits - Small, Smart Music Tools',
+    url: 'https://retrokits.com',
+    tags: ['hardware', 'sysex', 'utility', 'company'],
+    description: 'Small, Smart Music Tools with great MIDI hardware utility solutions.',
+  },  
+  {
     id: 'ryoturia',
     name: 'ryoturia - ThreeJS Synth',
     url: 'https://ryoturia.netlify.app/',
