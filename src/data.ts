@@ -29,8 +29,9 @@ export const initialSites: Site[] = [
     name: 'MIDI Surf',
     url: 'https://midisurf.app',
     tags: ['controller', 'drum', 'performance'],
-    description: 'A flexible and powerful MIDI controller anywhere you have a browser!.',
-  },  
+    description:
+      'A flexible and powerful MIDI controller anywhere you have a browser!.',
+  },
   {
     id: 'retrokits',
     name: 'RetroKits - Small, Smart Music Tools',
@@ -89,15 +90,17 @@ export const initialSites: Site[] = [
     name: 'Web Synths Collection',
     url: 'https://synth.playtronica.com',
     tags: ['synth', 'webaudio', 'collection'],
-    description: 'A curated collection of web-based synthesizers by Playtronica.',
+    description:
+      'A curated collection of web-based synthesizers by Playtronica.',
   },
   {
     id: 'piano-projector',
     name: 'Piano Projector',
     url: 'https://pianoprojector.app',
     tags: ['keyboard'],
-    description: 'A versatile and easy-to-use on-screen virtual piano keyboard.',
-  }
+    description:
+      'A versatile and easy-to-use on-screen virtual piano keyboard.',
+  },
 ];
 
 export const allTags = Array.from(
