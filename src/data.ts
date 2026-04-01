@@ -6,7 +6,8 @@ export const initialSites: Site[] = [
     name: 'PLAINSOUND HEXATONE',
     url: 'https://hexatone.plainsound.org',
     tags: ['synth', 'webaudio', 'webmidi', 'lumatone', 'isomorphic keyboard'],
-    description: 'A microtonal app for mapping keyboards and 2D controllers to custom tunings.'
+    description:
+      'A microtonal app for mapping keyboards and 2D controllers to custom tunings.',
   },
   {
     id: 'microtonal',
@@ -67,7 +68,8 @@ export const initialSites: Site[] = [
     name: 'Soundmondo',
     url: 'https://soundmondo.yamahasynth.com/',
     tags: ['hardware', 'sysex', 'utility', 'company'],
-    description: 'Soundmondo is a social sound-sharing community for creating, sharing and exploring synthesizer sounds.',
+    description:
+      'Soundmondo is a social sound-sharing community for creating, sharing and exploring synthesizer sounds.',
   },
   {
     id: 'studio-code',
