@@ -1,6 +1,7 @@
 # MIDIWeb Hub
+[<img width="1492" height="537" alt="MIDIWeb Hub Preview" src="https://github.com/user-attachments/assets/d3578c17-f100-40ec-90ae-d30864bea328" />](https://5of12.github.io/MIDIWeb-Hub/)
 
-MIDIWeb Hub is a curated, community-driven directory of websites that support **[WebMIDI](https://www.w3.org/TR/webmidi/)**.
+[MIDIWeb Hub](https://5of12.github.io/MIDIWeb-Hub/) is a curated, community-driven directory of websites that support **[WebMIDI](https://www.w3.org/TR/webmidi/)**.
 
 It exists to help musicians, makers, educators, developers, and curious internet explorers discover the growing ecosystem of browser-based musical tools — from synths and sequencers to MIDI utilities, experiments, educational tools, and playful oddities!
 
