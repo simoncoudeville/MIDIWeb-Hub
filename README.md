@@ -137,7 +137,6 @@ This means the site code is easy to reuse, while the curated directory data can 
 
 ## Credits & Affiliation
 
-Project Originally Created by [**5of12**](https://5of12.co.uk), 2026.
+MIDIWeb Hub Project originally created by [**5of12**](https://5of12.co.uk), 2026.
+All sites referenced in MIDIWeb Hub are not associated with 5of12, unless otherwise stated.
 © 5of12. All rights reserved.
-MIDIWeb and MIDIWeb Hub are created by 5of12. They are not affiliated with, endorsed by, sponsored by, or officially connected with The MIDI Association. 
-Any references to MIDI, WebMIDI, MIDI standards, or related technologies are used for descriptive and informational purposes only.
